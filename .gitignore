@@ -1,0 +1,14 @@
+/.idea/
+/vendor/
+
+.env
+
+.vscode
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+.DS_Store
+
+# Go workspace file
+go.work
